@@ -11,7 +11,7 @@ class Home extends BaseController
 		$model = new NewsModel();
 		print_r($model->getTest());
 		exit;
-		return view('welcome_message');
+//		return view('welcome_message');
 	}
 
 	//--------------------------------------------------------------------
