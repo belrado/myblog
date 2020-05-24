@@ -50,8 +50,8 @@ CI_ENVIRONMENT = development
 #--------------------------------------------------------------------
 
  database.default.hostname = '115.68.207.7'
- database.default.database = athena
- database.default.username = athena
+ database.default.database = artemis
+ database.default.username = artemis
  database.default.password = ekdrn150!
  database.default.DBDriver = MySQLi
 
